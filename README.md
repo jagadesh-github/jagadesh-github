@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagadesh-github
-- 👀 I’m interested in Java, Springboot, AWS, SQL, Azure, Docker, Kubernates
+- 👀 I’m interested in Java, Springboot, AWS, SQL, Azure, Docker, Kubernetes
 - 🌱 I’m currently learning AWS, Kubernates
 - 💞️ I’m looking to collaborate on Java based Enterprise level projects
 - 📫 How to reach me jagadesh.narayanaswamy@lexisnexisrisk.com
